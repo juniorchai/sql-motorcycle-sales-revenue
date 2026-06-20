@@ -1,6 +1,6 @@
 # 🏍️ Motorcycle Parts Wholesale Revenue Analysis
 
-![SQL](https://img.shields.io/badge/SQL-PostgreSQL-336791?logo=postgresql) ![Python](https://img.shields.io/badge/Python-3.8-blue?logo=python) ![Pandas](https://img.shields.io/badge/Pandas-Analysis-150458?logo=pandas) ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange) ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
+![SQL](https://img.shields.io/badge/SQL-PostgreSQL-336791?logo=postgresql) ![Python](https://img.shields.io/badge/Python-3.8-blue?logo=python) ![Pandas](https://img.shields.io/badge/Pandas-Analysis-150458?logo=pandas) ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
 
 ## Overview
 SQL + Python analysis of **1,000 motorcycle parts sales orders** across three warehouses to calculate wholesale net revenue by product line, month, and warehouse for **June–August 2021**.  
